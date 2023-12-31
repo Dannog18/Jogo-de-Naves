@@ -12,4 +12,3 @@ A spatial shooting game in which, as the player moves, the forest scenery moves 
 
 - The main objective of the game: Collect as many points as possible.
 
-link for Website:  https://dannog18.github.io/dio-spaceship-game/
